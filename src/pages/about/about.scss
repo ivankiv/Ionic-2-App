@@ -1,0 +1,8 @@
+page-about {
+  .stripe {
+    height: 30px;
+    &:nth-child(even) {
+      background-color: #005efe;
+    }
+  }
+}
